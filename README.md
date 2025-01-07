@@ -41,8 +41,8 @@ Here's a glimpse into my journey:
 
 ## 🌐 *Find Me Online*
 
-- [GitHub](https://github.com/Samruddi11/portfolioo.github.io)
-- [LinkedIn](https://www.linkedin.com/in/h-b-samruddi-5a0372306/)
+- [GitHub](https://github.com/Shravani-IJ/HLC.github.io/edit/main/README.md)
+- [LinkedIn](https://www.linkedin.com/in/shravani-janmatti-b9016b345/)
 
 ## Portfolio Highlights
 
